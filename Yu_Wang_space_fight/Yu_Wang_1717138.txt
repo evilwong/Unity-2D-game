@@ -1,0 +1,10 @@
+Development environment: Mac OS, Unity 2020.3.1f1c1 and 2020.3.3f1c1
+
+This game meets all the requirements in specification, including match RGB and R/G/B at the same time(+20), and all the win or lose situations.
+
+The game has two scenes, one for main menu and the other one for game play.
+
+In Game:
+his game will automatically restart 3 seconds later, if win or lose.
+Press Space in the game to pause.
+Press Esc in the game to quit.
